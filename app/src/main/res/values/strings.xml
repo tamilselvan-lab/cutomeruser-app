@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="hint1"><i>Enter Mobile Number</i></string>
+    <string name="hint2"><i>Enter Name</i></string>
+</resources>
